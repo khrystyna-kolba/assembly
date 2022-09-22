@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++uni\архітектура\floats\Source.cpp(51,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++uni\архітектура\floats\Source.cpp(55,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  floats.vcxproj -> D:\c++uni\архітектура\floats\Debug\floats.exe
