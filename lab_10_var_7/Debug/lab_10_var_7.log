@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++uni\архітектура\lab_10_var_7\Source.cpp(3,23): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+D:\c++uni\архітектура\lab_10_var_7\Source.cpp(3,23): warning C4309: 'initializing': truncation of constant value
+  lab_10_var_7.vcxproj -> D:\c++uni\архітектура\lab_10_var_7\Debug\lab_10_var_7.exe

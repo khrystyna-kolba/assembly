@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\c++uni\архітектура\lab_11_multiplying_matrixes\Source.cpp(59,1): warning C4102: 'a_to_eax': unreferenced label
+D:\c++uni\архітектура\lab_11_multiplying_matrixes\Source.cpp(64,4): warning C4102: 'b_to_ebx': unreferenced label
+D:\c++uni\архітектура\lab_11_multiplying_matrixes\Source.cpp(69,4): warning C4102: 'end': unreferenced label
+  lab_11_multiplying_matrixes.vcxproj -> D:\c++uni\архітектура\lab_11_multiplying_matrixes\Debug\lab_11_multiplying_matrixes.exe

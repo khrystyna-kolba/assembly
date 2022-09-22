@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\c++uni\архітектура\lab_11_var\Source.cpp(30,1): warning C4102: 'a_to_eax': unreferenced label
+D:\c++uni\архітектура\lab_11_var\Source.cpp(35,4): warning C4102: 'b_to_ebx': unreferenced label
+D:\c++uni\архітектура\lab_11_var\Source.cpp(40,4): warning C4102: 'end': unreferenced label
+D:\c++uni\архітектура\lab_11_var\Source.cpp(68,1): warning C4102: 'matrix_to_eax': unreferenced label
+D:\c++uni\архітектура\lab_11_var\Source.cpp(72,4): warning C4102: 'end': unreferenced label
+  lab_11_var.vcxproj -> D:\c++uni\архітектура\lab_11_var\Debug\lab_11_var.exe
